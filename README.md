@@ -1,6 +1,6 @@
-# AdvisePhone-web-neuralNet-HCI
-##Using NeuralNet with advisePhone data
-##Html, css, js, flask
-##Deploy on communication heroku
-![263718427_318646713235127_7026096423269938552_n](https://user-images.githubusercontent.com/56389219/145324506-db21f022-98e6-46e5-94cd-ebc9f9791f36.png)
-Web: https://tuvandienthoai-hophuctrang.herokuapp.com/ (updating!!!)
+# Soukpasong 
+## Using NeuralNet with advisePhone data
+## Html, css, js, flask
+## Image 
+![image](https://user-images.githubusercontent.com/96197666/199629993-e723cec9-8c1e-4f5e-99f8-5b219754e4a0.png)
+
