@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {"tag": "greeting",
+     "patterns": ["Chào bạn", "Bạn khỏe không?", "Có ai ở đó không?","Hey","Hola", "Xin chào", "ngày tốt", "Ekse", "chào"],
+     "responses": ["Chào mừng bạn đến với Fun Child English\nBạn cần mình giúp gì ạ?"]
+    },
+    {"tag": "greeting_en",
+     "patterns": ["Hi", "Hello", "What's up", "How are you?"],
+     "responses": ["Hi welcome to Fun child English\nHow could i help you?"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Tạm biệt", "Hẹn gặp lại bạn", "bye", "Bye Bye"],
+     "responses": ["Tạm biệt bạn!", "Chúc bạn một ngày tốt lành!", "Tạm biệt!", "Hẹn một ngày gặp lại bạn!"]
+    },
+    {"tag": "goodbye_en",
+     "patterns": ["Good bye", "See you soon", "bye", "Bye Bye"],
+     "responses": ["Good bye!", "Have a nice day!", "Bye!", "See you soon!"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Cảm ơn", "Cảm ơn bạn", "Thật là hữu ích", "Thật sự cảm ơn", "Cảm ơn bạn đã giúp tôi"],
+     "responses": ["Rất vui được giúp đỡ bạn", "Hân hạnh", "Không có gì đâu bạn", "Đó là trách nhiệm của tôi", "Đó là niềm vinh dự của tôi"]
+    },
+    {"tag": "thanks_en",
+     "patterns": ["Thanks", "Thank you", "Nice", "Thank you very much", "Thank for your help", "Thanks a lot", "Thanks to you", "I really appreciate it"],
+     "responses": ["Happy to help", "No problem", "No worries", "Any time"]
+    },
+    {"tag": "noanswer",
+     "patterns": ["rreh", "rrrhrgeh","rreêfweehh","rrfefeaeh","rrfnrjnreh","rregeh","egge","rreegwsh","rjejraeJ","êgge","rrgehrweh"],
+     "responses": ["Xin lỗi, tôi không nghe bạn nói gì", "Vui lòng cho tôi biết thêm thông tin", "Không chắc là tôi hiểu", "Tôi vẫn ở đây anh bạn", "Bạn có ý gì?"]
+    },
+    {"tag": "name",
+      "patterns": ["Bạn tên gì?", "Tên của bạn là gì", "Hãy cho tôi biết tên của bạn", "Bạn là ai vậy?", "Tôi muốn biết tên của bạn", "Bạn là ..."],
+      "responses": ["Tôi là FUNCHILDBOT", "Tên của tôi là FUNCHILDBOT", "Bạn có thể gọi tôi là FUNCHILDBOT", "FUNCHILDBOT là tên của tôi"]
+    },
+    {"tag": "name_en",
+      "patterns": ["What's your name?", "What is your name?", "Name?", "Who you are?", "Who are you?", "You are ..."],
+      "responses": ["I am FUNCHILDBOT", "My name is FUNCHILDBOT", "You can call me FUNCHILDBOT", "FUNCHILDBOT is my name"]
+    },
+    {"tag": "Learn_choice",
+      "patterns": ["Tôi muốn học tiếng Anh", "Tôi muốn biết tiếng Anh","Tôi muốn học từ mới", "Dạy tôi tiếng Anh", "Tôi cần bạn dạy tôi tiếng Anh", "Bạn dạy tiếng Anh cho tôi được không?", "Tôi rất muốn học tiếng Anh"],
+      "responses": ["Bạn cho tôi biết chủ đề bạn muốn học"]
+    },
+    {"tag": "days",
+      "patterns": ["Các ngày trong tuần", "thứ trong tuần","tôi muốn học các thứ trong tuần", "cho tôi biết các thứ trong tuần bằng tiếng Anh", "tôi muốn biết các thứ trong tuần bằng tiếng Anh", "Các thứ trong tuần trong tiếng Anh là gì?", "Tôi muốn học các thứ trong tuần", "Các thứ trong tuần", "Các thứ trong tuần bằng tiếng Anh"],
+      "responses": ["Monday – Thứ Hai\nTuesday – Thứ Ba\nWednesday – Thứ Tư\nThursday – Thứ Năm\nFriday – Thứ Sáu\nSaturday – Thứ Bảy\nSunday – Chủ nhật"]
+    },
+    {"tag": "months",
+      "patterns": ["Các tháng", "Các tháng trong năm","tháng trong năm", "cho tôi biết các tháng trong năm bằng tiếng Anh", "tôi muốn biết các tháng trong năm bằng tiếng Anh", "Các tháng trong năm trong tiếng Anh là gì?", "Tôi muốn học các tháng trong năm"],
+      "responses": ["January - Tháng 1\nFebruary - Tháng 2\nMarch - Tháng 3\nApril - Tháng 4\nMay -  Tháng 5\nJune - Tháng 6\nJuly - Tháng 7\nAugust - Tháng 8\nSeptember - Tháng 9\nOctober - Tháng 10\nNovember - Tháng 11\nDecember - Tháng 12"]
+    }
+  ]
+}
